@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11881","Validate general user is able to view products wihtout logging in","","Sun Sep 08 13:32:29 PDT 2024","passed","Sun Sep 08 13:32:41 PDT 2024","","General View","Validate general user is able to view products wihtout logging in",""
+"","9375","Validate new user is able to view after clicking on new Registration","","Sun Sep 08 13:32:52 PDT 2024","passed","Sun Sep 08 13:33:01 PDT 2024","","New User Registration View","Validate new user is able to view after clicking on new Registration",""
+"","10254","Validate user is able to view after Login","","Sun Sep 08 13:32:42 PDT 2024","passed","Sun Sep 08 13:32:52 PDT 2024","","LoggedIn User View","Validate user is able to view after Login",""
